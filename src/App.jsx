@@ -4,7 +4,7 @@ import Card from "./components/Card";
 
 function App() {
   return (
-    <div className="  flex justify-center items-center min-h-screen p-4  max-md:items-start max-md:pt-16 ">
+    <div className="  flex justify-center items-center min-h-screen p-4  max-md:items-start max-md:pt-16 max-md:pb-16">
       <Card />
      
     </div>
